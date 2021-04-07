@@ -1,0 +1,21 @@
+#header {
+text-align:center;
+}
+#content{
+	padding: 10px;
+}
+#main{
+	text-align:center;
+}
+#footer{
+	clear:both;
+	position: absolute;
+	bottom:0;
+}
+ul{
+	margin:0;
+	padding:0;
+}
+#project{
+	text-align: center;
+}
